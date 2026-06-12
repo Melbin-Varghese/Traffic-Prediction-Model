@@ -68,3 +68,28 @@ Deploying ML models into interactive web applications
 📁 Project structure
 
 traffic-prediction/ │ ├── app.py ├── model.pkl ├── requirements.txt ├── notebook.ipynb └── README.md
+
+## 📸 Project Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/Interface%201.png)
+
+### Dashboard View
+
+![Dashboard](screenshots/Interface%202.png)
+
+### Data Visualization
+
+![Visualization](screenshots/Interface%203.png)
+
+### Code Interface
+
+![Code](screenshots/Code%20Interface.png)
+
+### Prediction Output
+
+![Output 1](screenshots/Output%201.png)
+
+![Output 2](screenshots/Output%202.png)
+
